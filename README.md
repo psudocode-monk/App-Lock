@@ -1,4 +1,4 @@
-```markdown
+
 # App Lock
 
 App Lock is a secure Java-based desktop application that provides user authentication with email OTP verification along with advanced file-hiding capabilities. With App Lock, users can securely hide and later retrieve any desktop files, ensuring their sensitive data remains protected.
