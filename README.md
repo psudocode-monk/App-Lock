@@ -86,7 +86,7 @@ A demo video is included with this project to showcase its features and workflow
 
 - **Java:** Core programming language.
 - **Maven:** Dependency management and build automation.
-- **MySQL:** (If applicable) for storing user data and file metadata.
+- **MySQL:** For storing user data and file metadata.
 - **JavaMail API:** For sending email OTPs.
 - **Swing/JavaFX:** (If applicable) for building the graphical user interface.
 
