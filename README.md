@@ -8,10 +8,8 @@ App Lock is a secure Java-based desktop application that provides user authentic
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
