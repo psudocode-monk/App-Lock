@@ -22,7 +22,7 @@ App Lock is a secure Java-based desktop application that provides user authentic
   - Retrieve hidden files when needed.
 
 - **User-Friendly Interface:**  
-  - Simple and intuitive GUI for seamless user experience.
+  - Simple terminal based application.
   
 - **Cross-Platform Support:**  
   - Designed to work on various operating systems with Java support.
@@ -42,7 +42,7 @@ App Lock is a secure Java-based desktop application that provides user authentic
 1. **Clone the Repository:**  
    Open a terminal and run:
    ```sh
-   git clone https://github.com/yourusername/App-Lock.git
+   git clone https://github.com/psudocode-monk/App-Lock.git
    ```
 2. **Navigate to the Project Directory:**  
    ```sh
@@ -95,7 +95,4 @@ A demo video is included with this project to showcase its features and workflow
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
----
-
 Feel free to modify the content and sections to best suit your project details.
